@@ -1,0 +1,14 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "Airdrop - Quest 2 in Solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
